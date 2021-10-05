@@ -5,6 +5,8 @@ images/
 media/
 *.gz
 *.tar
+*.h5
+ray-results/
 
 # Created by https://www.gitignore.io/api/vim,linux,macos,python
 
